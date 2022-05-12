@@ -1,0 +1,17 @@
+D:\nam\window\pheptinh\pheptinh\bin\Debug\net6.0-windows\pheptinh.exe
+D:\nam\window\pheptinh\pheptinh\bin\Debug\net6.0-windows\pheptinh.deps.json
+D:\nam\window\pheptinh\pheptinh\bin\Debug\net6.0-windows\pheptinh.runtimeconfig.json
+D:\nam\window\pheptinh\pheptinh\bin\Debug\net6.0-windows\pheptinh.dll
+D:\nam\window\pheptinh\pheptinh\bin\Debug\net6.0-windows\pheptinh.pdb
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.csproj.AssemblyReference.cache
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.Form1.resources
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.csproj.GenerateResource.cache
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.AssemblyInfoInputs.cache
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.AssemblyInfo.cs
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.csproj.CoreCompileInputs.cache
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.dll
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\refint\pheptinh.dll
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.pdb
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\pheptinh.genruntimeconfig.cache
+D:\nam\window\pheptinh\pheptinh\obj\Debug\net6.0-windows\ref\pheptinh.dll

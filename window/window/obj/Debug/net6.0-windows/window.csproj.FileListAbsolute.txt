@@ -1,0 +1,17 @@
+E:\C#\window\window\bin\Debug\net6.0-windows\window.exe
+E:\C#\window\window\bin\Debug\net6.0-windows\window.deps.json
+E:\C#\window\window\bin\Debug\net6.0-windows\window.runtimeconfig.json
+E:\C#\window\window\bin\Debug\net6.0-windows\window.dll
+E:\C#\window\window\bin\Debug\net6.0-windows\window.pdb
+E:\C#\window\window\obj\Debug\net6.0-windows\window.csproj.AssemblyReference.cache
+E:\C#\window\window\obj\Debug\net6.0-windows\window.Form1.resources
+E:\C#\window\window\obj\Debug\net6.0-windows\window.csproj.GenerateResource.cache
+E:\C#\window\window\obj\Debug\net6.0-windows\window.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\window\window\obj\Debug\net6.0-windows\window.AssemblyInfoInputs.cache
+E:\C#\window\window\obj\Debug\net6.0-windows\window.AssemblyInfo.cs
+E:\C#\window\window\obj\Debug\net6.0-windows\window.csproj.CoreCompileInputs.cache
+E:\C#\window\window\obj\Debug\net6.0-windows\window.dll
+E:\C#\window\window\obj\Debug\net6.0-windows\refint\window.dll
+E:\C#\window\window\obj\Debug\net6.0-windows\window.pdb
+E:\C#\window\window\obj\Debug\net6.0-windows\window.genruntimeconfig.cache
+E:\C#\window\window\obj\Debug\net6.0-windows\ref\window.dll
